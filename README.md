@@ -6,6 +6,6 @@ This is a simple travel application built using React, allowing users to check p
 3. Remove travel packages from the list to find better deals.
 
 **Tech Stack**
-**1. Frontend**: React
-**2. State Management**: React Hooks
-**3. Styling**: CSS3
+1. Frontend: React
+2. State Management: React Hooks
+3. Styling: CSS3
