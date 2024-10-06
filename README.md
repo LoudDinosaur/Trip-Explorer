@@ -1,3 +1,4 @@
+# Trip-Explorer
 This is a simple travel application built using React, allowing users to check prices of travel packages and remove them from the list to explore better options.
 
 **Features**
